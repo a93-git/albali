@@ -1,0 +1,3 @@
+# Albali - A text editor
+
+
