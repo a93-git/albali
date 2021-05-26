@@ -1,2 +1,2 @@
-albali: albali.c
-	$(CC) albali.c -o bin/albali -Wall -Wextra -pedantic -std=c99
+albali: ./src/albali.c
+	cd src && cc albali.c -o ../bin/albali -Wall -Wextra -pedantic -std=c99
