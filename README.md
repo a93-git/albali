@@ -3,7 +3,7 @@
 
 Following the tutorial at [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
 
-![Screenshot\_1](#)
+![Screenshot\_1](https://github.com/a93-git/albali/blob/main/resources/screenshots/albali.png)
 
 ## Build and run
 1. Clone the repo
